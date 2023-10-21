@@ -3,8 +3,6 @@
 ```markdown
 # Python Voice Assistant
 
-![Voice Assistant](voice_assistant_image.png)
-
 ## Introduction
 
 This Python-based Voice Assistant is a versatile tool that can perform a wide range of tasks to assist you in your daily activities. It leverages speech recognition and natural language processing to understand and execute voice commands. Whether you want to manage files, have a good laugh, listen to music, send emails, access information, or control your computer, this Voice Assistant is here to help.
@@ -21,7 +19,7 @@ This Python-based Voice Assistant is a versatile tool that can perform a wide ra
 - **Web Browsing**: Open and search any website directly using your voice.
 - **System Commands**: Control your computer with actions like shutdown, restart, getting the time, or emptying the recycle bin.
 
-## Getting Started'''
+## Getting Started
 
 To start using this Voice Assistant, follow these steps:
 
