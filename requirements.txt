@@ -1,0 +1,8 @@
+speechrecognition
+wikipedia
+requests
+pyttsx3
+pyautogui
+pygame
+winshell
+tkinter
